@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="027c40ab-48ff-4917-83c1-58c7118336d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/java8-stream-free-exercises_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/java8-stream-free-exercises_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8-stream-free-exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/pl/klolo/workshops/logic/kata/Accumulate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/pl/klolo/workshops/logic/kata/BitCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/pl/klolo/workshops/logic/kata/DRoot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/pl/klolo/workshops/logic/kata/Kata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/pl/klolo/workshops/logic/kata/SrotKata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/pl/klolo/workshops/logic/kata/SumDigPower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/logic/WorkShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/logic/WorkShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/WorkShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/WorkShopTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java8-workshops" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/AccountType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Company.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/WorkShopTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="362" column="63" selection-start-line="362" selection-start-column="63" selection-end-line="362" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/logic/WorkShop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-892">
+              <caret line="465" column="5" selection-start-line="465" selection-start-column="5" selection-end-line="465" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#9611#9612#0" expanded="true" />
+                <element signature="e#9663#9664#0" expanded="true" />
+                <element signature="e#15080#15081#0" expanded="true" />
+                <element signature="e#15156#15157#0" expanded="true" />
+                <element signature="e#20844#20845#0" expanded="true" />
+                <element signature="e#20871#20872#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock/UserMockGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Sex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Currency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8-stream-free-exercises.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>see</find>
+      <find>zosia pos</find>
+      <find>f))</find>
+      <find>_</find>
+      <find>PLN</find>
+      <find>peek</find>
+      <find>try with</find>
+      <find>try</find>
+      <find>Map</find>
+      <find>opti</find>
+      <find>sex</find>
+      <find>flat</find>
+      <find>fla</find>
+      <find>flatMap</find>
+      <find>getCurenciesSet</find>
+      <find>zwraca z</find>
+      <find>pomoc</find>
+      <find>umMoneyOnAccounts</find>
+      <find>Sex.MAN</find>
+      <find>getSumUser</find>
+      <find>AmountInPLN</find>
+      <find>isMan</find>
+      <find>alfre</find>
+      <find>Sex.Man</find>
+      <find>isMa</find>
+      <find>consum</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;))</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain2/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/AccountType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Currency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Company.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Holding.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Permit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/logic/WorkShopDone.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock/AccountMockGenerator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/SortKata.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/Accumulate.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/BitCount.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/SrotKata.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/SumDigPower.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/DRoot.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/Kata.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Sex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/logic/WorkShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock/CompanyMockGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock/HoldingMockGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock/UserMockGenerator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/WorkShopTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-173" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="stream&#9;FILE&#9;jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/stream/Stream.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553941914191" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.klolo.workshops.logic" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata" />
+      <recent name="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.WorkShopTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="klolo-javastream_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.klolo.workshops.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.klolo.workshops.logic" />
+      <option name="MAIN_CLASS_NAME" value="pl.klolo.workshops.logic.WorkShopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkShopTest.shouldCountMoneyOnAllAccounts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="klolo-javastream_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.klolo.workshops.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.klolo.workshops.logic" />
+      <option name="MAIN_CLASS_NAME" value="pl.klolo.workshops.logic.WorkShopTest" />
+      <option name="METHOD_NAME" value="shouldCountMoneyOnAllAccounts" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkShopTest.shouldDivideIntoAdultsAndNonAdults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="klolo-javastream_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.klolo.workshops.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.klolo.workshops.logic" />
+      <option name="MAIN_CLASS_NAME" value="pl.klolo.workshops.logic.WorkShopTest" />
+      <option name="METHOD_NAME" value="shouldDivideIntoAdultsAndNonAdults" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkShopTest.shouldReturnManWithSumMoneyOnAccounts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="klolo-javastream_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.klolo.workshops.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.klolo.workshops.logic" />
+      <option name="MAIN_CLASS_NAME" value="pl.klolo.workshops.logic.WorkShopTest" />
+      <option name="METHOD_NAME" value="shouldReturnManWithSumMoneyOnAccounts" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkShopTest.shouldReturnWomanWhichAreOlderThan50" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="klolo-javastream_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.klolo.workshops.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.klolo.workshops.logic" />
+      <option name="MAIN_CLASS_NAME" value="pl.klolo.workshops.logic.WorkShopTest" />
+      <option name="METHOD_NAME" value="shouldReturnWomanWhichAreOlderThan50" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.WorkShopTest.shouldReturnManWithSumMoneyOnAccounts" />
+      <item itemvalue="JUnit.WorkShopTest" />
+      <item itemvalue="JUnit.WorkShopTest.shouldCountMoneyOnAllAccounts" />
+      <item itemvalue="JUnit.WorkShopTest.shouldReturnWomanWhichAreOlderThan50" />
+      <item itemvalue="JUnit.WorkShopTest.shouldDivideIntoAdultsAndNonAdults" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WorkShopTest" />
+        <item itemvalue="JUnit.WorkShopTest.shouldDivideIntoAdultsAndNonAdults" />
+        <item itemvalue="JUnit.WorkShopTest.shouldReturnWomanWhichAreOlderThan50" />
+        <item itemvalue="JUnit.WorkShopTest.shouldCountMoneyOnAllAccounts" />
+        <item itemvalue="JUnit.WorkShopTest.shouldReturnManWithSumMoneyOnAccounts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c6dc538-fd35-4d73-9fad-7ad277827c34" name="Default" comment="" />
+      <created>1502630125384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502630125384</updated>
+      <workItem from="1502630126979" duration="50000" />
+      <workItem from="1502630182026" duration="3293000" />
+      <workItem from="1502634868670" duration="4238000" />
+      <workItem from="1502643841149" duration="4049000" />
+      <workItem from="1502736940528" duration="611000" />
+      <workItem from="1502737769347" duration="599000" />
+      <workItem from="1502780121733" duration="19574000" />
+      <workItem from="1502907547110" duration="79000" />
+      <workItem from="1502907683826" duration="710000" />
+      <workItem from="1503151802318" duration="1315000" />
+      <workItem from="1503952641839" duration="536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="WorkShopTest_shouldCountMoneyOnAllAccounts - 2019.03.30 at 11h 12m 42s.xml">
+      <configuration name="WorkShopTest.shouldCountMoneyOnAllAccounts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkShopTest_shouldCountMoneyOnAllAccounts - 2019.03.30 at 11h 13m 33s.xml">
+      <configuration name="WorkShopTest.shouldCountMoneyOnAllAccounts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkShopTest_shouldCountMoneyOnAllAccounts - 2019.03.30 at 11h 14m 18s.xml">
+      <configuration name="WorkShopTest.shouldCountMoneyOnAllAccounts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkShopTest_shouldCountMoneyOnAllAccounts - 2019.03.30 at 11h 15m 18s.xml">
+      <configuration name="WorkShopTest.shouldCountMoneyOnAllAccounts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkShopTest_shouldCountMoneyOnAllAccounts - 2019.03.30 at 11h 15m 41s.xml">
+      <configuration name="WorkShopTest.shouldCountMoneyOnAllAccounts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkShopTest_shouldCountMoneyOnAllAccounts - 2019.03.30 at 11h 16m 23s.xml">
+      <configuration name="WorkShopTest.shouldCountMoneyOnAllAccounts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkShopTest_shouldCountMoneyOnAllAccounts - 2019.03.30 at 11h 16m 47s.xml">
+      <configuration name="WorkShopTest.shouldCountMoneyOnAllAccounts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkShopTest_shouldCountMoneyOnAllAccounts - 2019.03.30 at 11h 17m 09s.xml">
+      <configuration name="WorkShopTest.shouldCountMoneyOnAllAccounts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkShopTest_shouldReturnWomanWhichAreOlderThan50 - 2019.03.30 at 11h 20m 24s.xml">
+      <configuration name="WorkShopTest.shouldReturnWomanWhichAreOlderThan50" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WorkShopTest - 2019.03.30 at 11h 24m 17s.xml">
+      <configuration name="WorkShopTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35054000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536913" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="DB Browser" order="7" weight="0.32889125" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32950193" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22096318" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3170498" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32872504" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32917964" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.32872504" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.24973376" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32960597" />
+      <window_info anchor="right" id="Gradle" order="9" weight="0.15921193" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$USER_HOME$/demo1.js" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="convertUserToString" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Builder.java" />
+    <entry file="file://$PROJECT_DIR$/holdings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/Arrays.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/Optional.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/Map.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/function/Function.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/lang/String.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/math/BigDecimal.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar!/org/junit/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="938">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/stream/Collectors.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/stream/IntStream.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/function/IntUnaryOperator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/logic/WorkShopDone.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/stream/Stream.java" />
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13-beta-2/82aeb67084890746098fe1319eef2fe8c65dd67a/junit-4.13-beta-2-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="810" column="23" selection-start-line="810" selection-start-column="23" selection-end-line="810" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/AccountType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Currency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Holding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Permit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/Sex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock/AccountMockGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock/CompanyMockGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock/HoldingMockGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock/IGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/mock/UserMockGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/Accumulate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/BitCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/DRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/SrotKata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/kata/SumDigPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/klolo/workshops/logic/WorkShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-892">
+          <caret line="465" column="5" selection-start-line="465" selection-start-column="5" selection-end-line="465" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9611#9612#0" expanded="true" />
+            <element signature="e#9663#9664#0" expanded="true" />
+            <element signature="e#15080#15081#0" expanded="true" />
+            <element signature="e#15156#15157#0" expanded="true" />
+            <element signature="e#20844#20845#0" expanded="true" />
+            <element signature="e#20871#20872#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/klolo/workshops/logic/WorkShopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="362" column="63" selection-start-line="362" selection-start-column="63" selection-end-line="362" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

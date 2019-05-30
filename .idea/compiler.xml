@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java8-stream-free-exercises_main" target="1.8" />
+      <module name="java8-stream-free-exercises_test" target="1.8" />
+      <module name="java8-workshops_main" target="1.8" />
+      <module name="java8-workshops_test" target="1.8" />
+      <module name="klolo-javastream_main" target="1.8" />
+      <module name="klolo-javastream_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
